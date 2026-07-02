@@ -12,8 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
