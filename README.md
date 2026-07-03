@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/farahnoorcodes/coding-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
+| [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -28,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/farahnoorcodes/coding-practice/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
