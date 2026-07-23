@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/farahnoorcodes/coding-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/farahnoorcodes/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
 |  |
