@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/farahnoorcodes/coding-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/farahnoorcodes/coding-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/farahnoorcodes/coding-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/farahnoorcodes/coding-practice/tree/master/0242-valid-anagram) |
 | [2974-minimum-number-game](https://github.com/farahnoorcodes/coding-practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
 ## Queue
