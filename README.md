@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/farahnoorcodes/coding-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/farahnoorcodes/coding-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/farahnoorcodes/coding-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/farahnoorcodes/coding-practice/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/farahnoorcodes/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/farahnoorcodes/coding-practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/farahnoorcodes/coding-practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/farahnoorcodes/coding-practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/farahnoorcodes/coding-practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/farahnoorcodes/coding-practice/tree/master/3024-type-of-triangle) |
