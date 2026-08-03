@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/farahnoorcodes/coding-practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/farahnoorcodes/coding-practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/farahnoorcodes/coding-practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/farahnoorcodes/coding-practice/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/farahnoorcodes/coding-practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/farahnoorcodes/coding-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/farahnoorcodes/coding-practice/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/farahnoorcodes/coding-practice/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/farahnoorcodes/coding-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/farahnoorcodes/coding-practice/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/farahnoorcodes/coding-practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Heap (Priority Queue)
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/farahnoorcodes/coding-practice/tree/master/1672-richest-customer-wealth) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/farahnoorcodes/coding-practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
